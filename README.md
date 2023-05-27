@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![paolorechia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolorechia&count_private=false&theme=dracula&show_icons=true)
 <!--
 **paolorechia/paolorechia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
